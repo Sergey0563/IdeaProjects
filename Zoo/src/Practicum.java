@@ -10,7 +10,7 @@ public class Practicum {
         animals.add("Крокодил");
         animals.add("Лев");
         animals.add("Медведь");
-        animals.add("Слон");
+        animals.add("Шакал");
 
         while (true) {
             printMenu();

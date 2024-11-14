@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Dinner_Constructor" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Finance app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dinner-constructor" vcs="Git" />
   </component>
 </project>
